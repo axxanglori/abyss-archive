@@ -1,4 +1,4 @@
-# Abyss — Kullanıcı Karar Kaydı v0.6
+# Abyss — Kullanıcı Karar Kaydı v1.0
 
 Bu dosya, kullanıcının doğrudan kesinleştirdiği bilgiler ile henüz karara bağlanmamış açıklama adaylarını ayırır. Kaynaklardaki eski ifadeler silinmez; değişiklik geçmişi korunur.
 
