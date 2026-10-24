@@ -1,4 +1,4 @@
-# Abyss — Kaynak Farkları ve Karar Kuyruğu v0.5
+# Abyss — Kaynak Farkları ve Karar Kuyruğu v0.6
 
 **Tarih:** 24 Ekim 2026  
 **Amaç:** Kaynakta gerçekten çakışan bilgiler, kullanıcı tarafından çözülmüş tarihsel varyantlar ve henüz tanımlanmamış mekanikleri birbirinden ayırmak.
