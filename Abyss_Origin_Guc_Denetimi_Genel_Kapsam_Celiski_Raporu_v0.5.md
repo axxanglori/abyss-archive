@@ -1,4 +1,4 @@
-# Abyss — Origin/Güç Denetimi Genel Kapsam ve Çelişki Raporu v0.1
+# Abyss — Origin/Güç Denetimi Genel Kapsam ve Çelişki Raporu v0.5
 
 **Tarih:** 24 Ekim 2026  
 **Ana kaynak:** `Abyss Evreni_ Tam Arşiv v1.2.docx` (17 sayfa).  
