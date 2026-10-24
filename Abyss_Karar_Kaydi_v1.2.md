@@ -1,4 +1,4 @@
-# Abyss — Kullanıcı Karar Kaydı v0.6
+# Abyss — Kullanıcı Karar Kaydı v1.2
 
 Bu dosya, kullanıcının doğrudan kesinleştirdiği bilgiler ile henüz karara bağlanmamış açıklama adaylarını ayırır. Kaynaklardaki eski ifadeler silinmez; değişiklik geçmişi korunur. v1.1, Frenze ailesinin Clubs (Türkçe Sinek) eşleşmesini K-011 ile kesinleştirir.
 
