@@ -1,0 +1,80 @@
+{
+  "repository": "axxanglori/abyss-archive",
+  "branch": "main",
+  "files": [
+    {
+      "archive_path": "Abyss_Karar_Kaydi_v1.4.md",
+      "bytes": 24412,
+      "sha256": "66687d91304ac018e00f9b57ec8c74376691426de43a429beae47cc0a191f54f"
+    },
+    {
+      "archive_path": "Abyss_Kaynak_Konum_Eslestirme_v2.8.csv",
+      "bytes": 492121,
+      "sha256": "804d66990e849c6bd1898e298c87e7582a5231b1e81820bbe2431684f50bb050"
+    },
+    {
+      "archive_path": "Abyss_Kaynak_Konum_Eslestirme_v2.8.md",
+      "bytes": 3568,
+      "sha256": "4d9bd0ffd8a01f2158541cacbf890e6904cf4adb1fc7cbb8c9e011a28b33cb4b"
+    },
+    {
+      "archive_path": "Abyss_Kaynak_Kapsam_Matrisi_v0.4.csv",
+      "bytes": 6607,
+      "sha256": "e069cce56bd024d2d4680eee544358afd345c1be6b098127e8013c60a904382f"
+    },
+    {
+      "archive_path": "Abyss_Kaynak_Kapsam_Matrisi_v0.4.md",
+      "bytes": 1271,
+      "sha256": "543eb6c4c5516ea5d0a9cbf3d8e5ca89906db864d373910fbd2674e77f6fa237"
+    },
+    {
+      "archive_path": "Abyss_Kaynak_Butunlugu_Denetimi_v0.2.md",
+      "bytes": 19169,
+      "sha256": "501f6cf5f993bf8ac9e4489608d12b8b5ae3389f0e5db05f0c22b5ea796552b6"
+    },
+    {
+      "archive_path": "Abyss_Origin_Guc_Denetimi_Genel_Kapsam_Celiski_Raporu_v0.6.md",
+      "bytes": 15658,
+      "sha256": "e210f4fa2bd246bc3c1870dd42e1880fb3637211de943adde0e80468ce9cb3eb"
+    },
+    {
+      "archive_path": "Abyss_Origin_Guc_Denetimi_Acik_Konular_v1.0.csv",
+      "bytes": 14715,
+      "sha256": "63ff4c825cb7d262a8b32e5b4b5fdbf4ad88b5025c93e957ede4b296d56e9448"
+    },
+    {
+      "archive_path": "Abyss_Origin_Guc_Denetimi_Acik_Konular_v1.0.md",
+      "bytes": 1854,
+      "sha256": "99b1dec9c00293a5e8fb95c1d505e6e107845a77414cde59812319e11ce178c7"
+    },
+    {
+      "archive_path": "Abyss_Origin_Guc_Denetimi_99_Kayit_Takip_v1.9.csv",
+      "bytes": 186533,
+      "sha256": "df5f1b1fd514c7fe151d232293eb757a67079d63af9cc5f08a66894c3970063f"
+    },
+    {
+      "archive_path": "Abyss_Arsiv_Senkronizasyon_Denetimi_v0.1.md",
+      "bytes": 4034,
+      "sha256": "e81b3d9bfb992b4cbb70898bc763583fb841c78f9487bb04168b83f7525b69cb"
+    },
+    {
+      "archive_path": "Abyss_Kanon_Taslak_Capraz_Kontrol_v0.1.csv",
+      "bytes": 7512,
+      "sha256": "b4e0496cdb277665b1cc5b02e3d540b7dd1e10fcc17e6883318daea8eeff5042"
+    },
+    {
+      "archive_path": "Abyss_Kanon_Taslak_Capraz_Kontrol_v0.1.md",
+      "bytes": 10357,
+      "sha256": "9988afdb5b9ef1a07bb18635668eb25120f8c5cd617d588da2daa3f580bbd6d1"
+    },
+    {
+      "archive_path": "md_output/Abyss_Arsiv_Envanteri_ve_Karsilastirma_Guncelleme_Eki_v0.1.md",
+      "bytes": 3289,
+      "sha256": "19c8f1c0d4ed5d53355f2c93dd29275b9fc41dc70c81c60c1e7be26be0dac68a"
+    }
+  ],
+  "excluded": [
+    "Abyss_OCR.pdf (239,300,940 bytes; exceeds regular GitHub 100 MiB single-file cap)",
+    "Existing unchanged files already in GitHub; historic versions are not re-uploaded"
+  ]
+}
