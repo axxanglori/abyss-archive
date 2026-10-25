@@ -1,0 +1,22 @@
+{
+  "repository": "axxanglori/abyss-archive",
+  "branch": "main",
+  "files": [
+    {
+      "archive_path": "md_output/Abyss_Tam_Arsiv_v1.2_Karsilastirma_Raporu_v0.5.md",
+      "bytes": 12823,
+      "sha256": "5eb4747bc9ef16de47b6dc1bc03097226e969d97763015604ea650d9157a9e31"
+    },
+    {
+      "archive_path": "Abyss_Arsiv_Envanteri_Durum_Guncellemesi_v0.2.md",
+      "bytes": 4557,
+      "sha256": "4a0232a635e97ec91ca3972254a47725d93ba80146f9b40d6c353f42797d1451"
+    },
+    {
+      "archive_path": "README_Paket_Aciklamasi.md",
+      "bytes": 1776,
+      "sha256": "21f520c12497587d0537fe4b10ab539c870947f60dbe735a0cc5acc79e7bf6cf"
+    }
+  ],
+  "note": "No existing repository files are overwritten; add two new Markdown files, one README is package guidance only."
+}
